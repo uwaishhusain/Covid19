@@ -1,5 +1,5 @@
 # Covid-19 Analysis
-This repository contains the one page visualization created using Tableau.
+This repository contains the analytic report created using Tableau.
 
 ## About
 This project has been built to analyse the vaccination update of Covid-19 in entire world.
